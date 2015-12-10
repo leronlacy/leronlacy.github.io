@@ -39,7 +39,9 @@ PAGE: _______
 /**********************************
 FONTS
 ***********************************/
-
+.portrait_name{
+    font-family: 'Audiowide', cursive;
+}
 
 
 /**********************************
@@ -50,3 +52,34 @@ Color 1:
 Color 1:
 Color 1:
 ***********************************/
+html {
+  background: black;
+  color: white;
+  font: "Georgia", serif;
+  width: 320px;
+  margin: 0 auto 0 auto;
+  
+  }  
+h1 {
+  font: 28px 'Courier New', monospace;
+  color: black;
+
+  margin: 0px 0px 0px 0px;
+ 
+}
+
+
+p {
+  margin: 14px 0px 10px 0px;
+  text-align: justify;
+}
+
+footer,
+header {
+  background: none;
+  text-align: left;
+  margin: 0px -10px 0px -10px;
+}
+body {
+  margin: 10px 10px 10px 10px;
+}
