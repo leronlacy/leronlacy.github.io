@@ -16,6 +16,7 @@ HEADER
 .portrait{
     max-width:auto;
     max-height:250px;
+    color:red;
 }
 
 .jumbotron{
@@ -77,8 +78,7 @@ FONTS
 
 /**********************************
 COLORS and BACKGROUNDS
-Color 1: #eee
-Color 1:
+Color 1: 
 Color 1:
 Color 1:
 Color 1:

@@ -54,11 +54,10 @@ Color 1:
 ***********************************/
 html {
   background-color:#263248;
-  color: white;
   font: "Audiowide", cursive;
   margin: 0 auto 0 auto;
   
-  }  
+}  
 h2{
   font: 18px 'Audiowide', cursive;
   color: black;
@@ -67,7 +66,12 @@ h2{
 article{
   font: 18px 'Audiowide', cursive;
   color: black;
-   background-color:#FF9800;
+  background-color:#FF9800;
+  width:90%;
+  margin:0 auto;
+  padding:10px;
+  border-radius:10px;
+  margin-bottom:10px;
 }
 
 .thumbnail_space{
@@ -77,6 +81,12 @@ article{
     
     color:black;
 }
+
+.thumbnail_image{
+  max-height:200px;
+  max-width:242px;
+}
+
 p {
   margin: 14px 0px 10px 0px;
   text-align: justify;
