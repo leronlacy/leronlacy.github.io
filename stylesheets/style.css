@@ -59,17 +59,22 @@ html {
   margin: 0 auto 0 auto;
   
   }  
-h2,
+h2{
+  font: 18px 'Audiowide', cursive;
+  color: black;
+}
+
 article{
   font: 18px 'Audiowide', cursive;
   color: black;
+   background-color:#FF9800;
 }
 
 .thumbnail_space{
     max-width:90%;
     margin:0 auto;
     color: black;
-    background-color:#263248;
+    
     color:black;
 }
 p {
