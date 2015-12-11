@@ -53,15 +53,15 @@ Color 1:
 Color 1:
 ***********************************/
 html {
-  background: green;
+  background-color:#263248;
   color: white;
-  font: "Georgia", serif;
+  font: "Audiowide", cursive;
   margin: 0 auto 0 auto;
   
   }  
 h2,
 article{
-  font: 18px 'Courier New', monospace;
+  font: 18px 'Audiowide', cursive;
   color: black;
 }
 
@@ -69,10 +69,13 @@ article{
     max-width:90%;
     margin:0 auto;
     color: black;
+    background-color:#263248;
+    color:black;
 }
 p {
   margin: 14px 0px 10px 0px;
   text-align: justify;
+  color:black;
 }
 
 footer,
