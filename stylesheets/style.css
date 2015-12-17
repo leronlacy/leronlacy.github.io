@@ -46,9 +46,9 @@ FONTS
 
 /**********************************
 COLORS and BACKGROUNDS
-Blue:FF011E66
-orange:FFFF8400
-Color 1:
+Blue:263248
+orange:FF9800
+blue 2:7E8AA2
 Color 1:
 Color 1:
 ***********************************/
@@ -100,5 +100,5 @@ header {
 
 body {
   margin: 10px 10px 10px 10px;
-  Background-color:#FF011E66;
+  Background-color:#263248;
 }
