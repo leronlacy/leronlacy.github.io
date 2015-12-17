@@ -4,4 +4,4 @@ leron lacy Portfolio Website for ChiTech
 -get code to recolor navbar
 -change landing page canvas
 -Take new profile picture
--
+-s
