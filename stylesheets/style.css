@@ -100,15 +100,5 @@ header {
 
 body {
   margin: 10px 10px 10px 10px;
-}
-
-#container {
-  position: relative;
-}
-#container canvas, #overlay {
-  position: absolute;
-}
-canvas {
-  border: 1px solid black;
-  Background-color:green;
+  Background-color:#FF011E66;
 }
