@@ -78,8 +78,6 @@ article{
     max-width:90%;
     margin:0 auto;
     color: black;
-    
-    color:black;
 }
 
 .thumbnail_image{
@@ -91,6 +89,10 @@ p {
   margin: 14px 0px 10px 0px;
   text-align: justify;
   color:black;
+}
+
+div {
+   background-color:;
 }
 
 footer,

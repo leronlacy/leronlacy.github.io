@@ -16,7 +16,7 @@ HEADER
 .portrait{
     max-width:auto;
     max-height:250px;
-    color:red;
+   
 }
 
 .jumbotron{
@@ -100,4 +100,8 @@ footer{
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
 }
-
+canvas {
+  background-color: blue; 
+  width: 100%;
+  height: auto;
+}
