@@ -53,7 +53,7 @@ Color 1:
 Color 1:
 ***********************************/
 html {
-  background-color:#263248;
+  background-color:white;
   font: "Audiowide", cursive;
   margin: 0 auto 0 auto;
   
@@ -91,16 +91,20 @@ p {
   color:black;
 }
 
-div {
-   background-color:;
-}
-
 footer,
 header {
   background: none;
   text-align: left;
   margin: 0px -10px 0px -10px;
 }
+
 body {
   margin: 10px 10px 10px 10px;
 }
+
+canvas {
+  background-color: blue; 
+  width: 100%;
+  height: auto;
+}
+
