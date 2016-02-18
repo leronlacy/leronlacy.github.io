@@ -1,49 +1,3 @@
-/*
-  Built Mobile First: All Generic sizing and layouts are placed in main part of CSS. 
-  All sizing and layout changes specific to screen sizes is down in media-query area.
-  All color based things are seperate to allow for tweaking later out.
-*/
-
-/**********************************
-GENERAL
-***********************************/
-
-
-/**********************************
-NAVIGATION 
-***********************************/
-
-
-
-/**********************************
-HEADER
-***********************************/
-
-
-/**********************************
-MAIN CONTENT
-***********************************/
-
-
-/**********************************
-FOOTER - Layout and Sizing
-***********************************/
-
-
-/**********************************
-PAGE: _______
-***********************************/
-
-
-
-/**********************************
-FONTS
-***********************************/
-.portrait_name{
-    font-family: 'Audiowide', cursive;
-}
-
-
 /**********************************
 COLORS and BACKGROUNDS
 Blue:263248
@@ -53,52 +7,72 @@ Color 1:
 Color 1:
 ***********************************/
 html {
-  
-  font: "Audiowide", cursive;
+	min-height:100%;
+  font-family: 'Cabin', sans-serif;
   margin: 0 auto 0 auto;
-  
 }  
-h2{
-  font: 18px 'Audiowide', cursive;
-  color: black;
+h1,small {
+   color: white;
+   font-family: 'Cabin', sans-serif;
+}
+h3{
+   color:#8F8F8F;
+   font-family: 'Cabin', sans-serif;
 }
 
-article{
-  font: 18px 'Audiowide', cursive;
-  color: black;
-  background-color:#263248;
-  width:90%;
+article {
+  width:100%;
   margin:0 auto;
-  padding:10px;
   border-radius:10px;
   margin-bottom:10px;
+  font-family: 'Cabin', sans-serif;
 }
-
+a {
+    color:#263248;
+}
+section {
+  margin: 10px 10px 10px 10px;
+  Background-color:white;
+  min-height:100%;
+  min-width:100%;
+  text-align: center;
+}
+li {
+  color: black;
+}
 .thumbnail_space{
     max-width:90%;
     margin:0 auto;
     color: black;
 }
-
 .thumbnail_image{
   max-height:200px;
   max-width:242px;
 }
-
 p {
   margin: 14px 0px 10px 0px;
-  text-align: justify;
-  color:black;
+  text-align: center;
+  color:white;
+  font-family: 'Cabin', sans-serif;
+  font-size:20px;
 }
-
 footer,
 header {
-  background: none;
+  background:none;
   text-align: left;
   margin: 0px -10px 0px -10px;
+  color:white;
 }
-
 body {
-  margin: 10px 10px 10px 10px;
+  margin: 0px 0px 4px 0px;
   Background-color:#263248;
+  min-height:100%;
+  min-width:100%;
+}
+ul {
+  Background-color:white;
+  }
+content
+{
+Background-color:#263248;
 }
