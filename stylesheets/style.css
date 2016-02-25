@@ -15,6 +15,9 @@ h1,small {
    color: white;
    font-family: 'Cabin', sans-serif;
 }
+h2 {
+  font-family: 'Cabin', sans-serif;
+}
 h3{
    color:#8F8F8F;
    font-family: 'Cabin', sans-serif;
@@ -56,12 +59,11 @@ p {
   font-family: 'Cabin', sans-serif;
   font-size:20px;
 }
-footer,
-header {
-  background:none;
-  text-align: left;
-  margin: 0px -10px 0px -10px;
+footer {
   color:white;
+  height:100px;
+  text-align:center;
+  padding:20px;
 }
 body {
   margin: 0px 0px 4px 0px;
@@ -75,11 +77,4 @@ ul {
 content
 {
 Background-color:#263248;
-}
-.rotate90 {
-    -webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
 }

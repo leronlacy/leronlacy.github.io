@@ -93,10 +93,17 @@ footer{
 }
 
 .jumbotron{
-  background: url('https://picjumbo.imgix.net/HNCK9329.jpg?q=40&w=1650&sharp=30') no-repeat center;
-  background-size: cover;
+  background: url("https://picjumbo.imgix.net/HNCK9329.jpg?q=40&w=1650&sharp=30") no-repeat center;
+  background-size:cover ;
 }
 
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
+}
+
+body{
+   Background-color:#263248; 
+}
+h2,p {
+  font-family: 'Cabin', sans-serif;  
 }
